@@ -1,10 +1,6 @@
 # Aioverse BrandNew
 
-![IMG_0699](https://github.com/Aioverse-DEV/Aioverse-Branding)
-
-
-
-> **Aioverse** is the universal naming component and organizational framework for Aiotize Inc.'s brand ecosystem.
+Welcome to the documentation for **Aioverse BrandNew**!
 
 This project aims to provide a comprehensive overview of its features, setup instructions, usage, and development guidelines.
 
