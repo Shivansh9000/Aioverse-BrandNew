@@ -11,6 +11,9 @@ Contains all typeface files organized by usage category.
 
 ### `logos/`
 Brand logo files in various formats and sizes.
+- `svg/` — Scalable vector logo files, ideal for digital and print.
+- `png/` — Raster logo images with transparent backgrounds, suitable for web and presentations.
+- `pdf/` — High-quality vector logo files for print and documentation.
 
 ### `illustrations/`
 Brand illustrations and custom artwork.
