@@ -1,8 +1,6 @@
 # Meeting template
 
-{% hint style="info" %}
-**GitBook tip:** bias meetings towards action and discovery by sticking to a format where you document learnings, blockers, and next steps.
-{% endhint %}
+> **Info:** Bias meetings towards action and discovery by sticking to a format where you document learnings, blockers, and next steps.
 
 ## Participants
 
@@ -17,19 +15,3 @@
 ### What should we continue doing?
 
 *
-
-### What should we start doing?
-
-*
-
-### What should we stop doing?
-
-*
-
-### Potential blockers
-
-*
-
-### Next steps
-
-<table><thead><tr><th data-type="checkbox"></th><th>Action</th><th data-type="users" data-multiple>Assigned to</th></tr></thead><tbody><tr><td>false</td><td>Action item one…</td><td></td></tr></tbody></table>
